@@ -1,0 +1,7 @@
+h5py==3.11.0
+matplotlib==3.4.2
+numpy==1.20.3
+opencv-python==4.9.0.80
+pandas==1.4.4
+scikit-learn 1.0.2 @ file:///C:/ci/scikit-learn_1642617276183/work
+tensorflow==2.16.1
