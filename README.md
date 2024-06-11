@@ -13,7 +13,7 @@ In the next notebook 'Organization and Data Augmentation' the images are seprate
 Once that we have the images separated we can train the models. There first model is the basic one and has been taken from the article of Thamilarasi (1). Because the model was overfitting, we have created another 4 models that derivate from the basic which they include layers that try to solve the problem. This models include layers of Dropout, BatchNormalization and L2.
 We have also tried to train the model with the arquitecture Densenet121 loading the weights of the model and also without loading the weights.
 
-None of the models have showed any improvement and could solve the overfitting problem
+All the models have been tried with 512x512 images and 295x295 and the result has been the same, none of the models have showed any improvement and could not solve the overfitting problem
 
 
 
